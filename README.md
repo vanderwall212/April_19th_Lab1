@@ -3,4 +3,4 @@
 Contains material and python code needed for HEC Class Two Week Python Module in September 2021
 
 Click here to run in mybinder:
-[![Binder](https://mybinder.org/v2/gh/vanderwall212/April_19th_Lab1/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vanderwall212/April_19th_Lab1/HEAD)
